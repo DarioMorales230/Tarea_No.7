@@ -1,6 +1,6 @@
 # Tarea_No.7
 
-Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Estefany Gissela
+# Integrantes del grupo: Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Estefany Gissela
 
 1. OBJETIVOS
 
@@ -218,9 +218,192 @@ Leqv1 = 90μH
 ![image](https://user-images.githubusercontent.com/85144847/130495093-50f5b6cf-1f3f-4a40-be96-0cd60311f06f.png)
 ![image](https://user-images.githubusercontent.com/85144847/130495113-a314adb2-a30a-4489-ac7c-40a7d90618da.png)
 
-
-
 3.2. CAPITULO 14
+
+14-2 Transitorio de corriente creciente.
+
+11. Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es 4 A, y el transitorio dura 0.5 s. Determine E, R y L.
+
+![image](https://user-images.githubusercontent.com/85144847/130513078-4aba42e2-3b39-4560-aa51-29e22d759f0a.png)
+
+- Redibujando el circuito tenemos:
+
+![image](https://user-images.githubusercontent.com/85144847/130513132-b28c980a-868d-42a5-a32a-1a4e6c936403.png)
+
+E = VL
+
+E = 80 V
+
+![image](https://user-images.githubusercontent.com/85144847/130513182-167b2ea0-322e-485b-b135-226014f29300.png)
+![image](https://user-images.githubusercontent.com/85144847/130513247-ad27355f-e868-47af-91c5-8719f0a8589a.png)
+![image](https://user-images.githubusercontent.com/85144847/130513338-f12b1151-3b96-4e5b-ab1a-bff7c3f17fe0.png)
+
+13. Para la figura 14-1(b), si vL = 40 e^-2000t V y la corriente de estado estable es 10 mA, ¿cuáles son los valores de E, R y L?
+
+![image](https://user-images.githubusercontent.com/85144847/130513488-0d808315-93c3-4c6b-b84c-5c68d546ef65.png)
+
+E = VL
+
+E = 40 V
+
+![image](https://user-images.githubusercontent.com/85144847/130513616-dcb52bcf-cc91-4018-bf5f-02548af7abc2.png)
+![image](https://user-images.githubusercontent.com/85144847/130513664-564ce0db-ffcd-4045-9559-12569dbf4fec.png)
+
+14-4Transitorios des energizantes.
+
+15. Para la figura 14-43, R1 = 20 Ohm, R2 = 230 Ohm y L = 0.5 H y la corriente del inductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En t = 0 s, el interruptor se abre.
+
+![image](https://user-images.githubusercontent.com/85144847/130513826-0c0f23d0-24f8-41d0-ab1e-e1af4df858cb.png)
+
+- Redibujando el circuito tenemos:
+
+![image](https://user-images.githubusercontent.com/85144847/130513917-8c09f651-458f-4b2b-aa93-601b351caede.png)
+
+a. ¿Cuál es la constante de tiempo en la fase de disminución?
+
+![image](https://user-images.githubusercontent.com/85144847/130514032-98bc0e44-979e-47c5-b88a-aa3beb18b072.png)
+
+b. Determine las ecuaciones para iL y vL.
+
+![image](https://user-images.githubusercontent.com/85144847/130514138-2dd1281e-a66b-4b0e-adda-6e565933b3a8.png)
+
+- Desarrollando:
+
+![image](https://user-images.githubusercontent.com/85144847/130514301-187ba601-9994-4d9b-8c49-f1472ba58a08.png)
+
+c. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t = 0 hasta 5 T.
+
+- Para t = 0:
+
+iL= 5e^(-500 (0))
+
+iL = 5 A
+
+VL = -1250e^(-500 (0))
+
+VL = -1250 V
+
+- Para t = τ:
+
+![image](https://user-images.githubusercontent.com/85144847/130514607-82687308-304a-478c-a837-3784b459494a.png)
+
+- Para t = 2τ:
+
+t = 2(2 ms)
+
+t = 4 ms
+
+iL = 5e^(-500(4x10^(-3)))
+
+iL = 5e^(-2)
+
+iL = 0.677 A
+
+vL = -1250e^(-500(4x10^(-3)))
+
+VL = -1250e^(-2)
+
+VL = -169.17 V
+
+- Para t = 3τ:
+
+t = 3(2 ms)
+
+t = 6 ms 
+
+iL = 5e^(-500(6x10^(-3)))
+
+iL = 5e^(-3)
+
+iL= 0.249 A
+
+VL= -1250e^(-500(6x10^(-3)))
+
+VL = -1250e^(-3)
+
+VL= -62.2 V
+
+- Para t = 4τ:
+
+t = 4(2 ms)
+
+t = 8 ms
+
+iL = 5e^(-500(8x10^(-3) ) )
+
+iL = 5e^(-4)
+
+iL = 0.092 A
+
+VL = -1250e^(-500(8x10^(-3) ) )
+
+VL = -1250e^(-4)
+
+VL = -22.9 V
+
+- Para t = 5τ:
+
+t=5(2 ms)
+
+t=10 ms
+
+iL=5e^(-500(10x10^(-3)))
+
+iL=5e^(-5)
+
+iL=0.034 A
+
+VL=-1250e^(-500(10x10^(-3)))
+
+VL=-1250e^(-5)
+
+VL=-8,42 V
+
+d. Grafique iL y vL. Marque el eje en T y en segundos.
+
+![image](https://user-images.githubusercontent.com/85144847/130515548-49085c1d-4860-401f-936d-6bb052eaf031.png)
+
+14-4 Transitorios des energizantes.
+
+17. Dado vL = -2700 Ve^-100t . Use la curva universal de la constante de tiempo para determinar vL en t = 20 ms. 
+
+![image](https://user-images.githubusercontent.com/85144847/130516030-a730b668-d43b-4407-bea6-cdbb3fa5c5de.png)
+
+Tenemos t=20 ms:
+
+t=2τ
+
+vL = -2700V(0.135)
+
+vL = -364.5V
+
+19. Para la figura 14-43, L = 20 H. 
+
+![image](https://user-images.githubusercontent.com/85144847/130516208-191c4d68-dcc8-441b-b295-f4dc1e4cccb0.png)
+ 
+- La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine R1 y R2.
+ 
+![image](https://user-images.githubusercontent.com/85144847/130516234-7b8dcc61-f099-4e9a-82fa-69208455a276.png)
+
+- Redibujando el circuito tenemos:
+
+Reqv = R1
+
+![image](https://user-images.githubusercontent.com/85144847/130516380-7bbeb7e7-84a6-47f3-b8da-b1c6b3e97b9d.png)
+
+Cuando t = 5τ:
+
+5s = τ
+
+τ = 1s
+
+![image](https://user-images.githubusercontent.com/85144847/130516518-3c98fbb5-2eed-4798-b05d-b1d4ce732a7e.png)
+
+- Redibujando como un circuito abierto:
+
+![image](https://user-images.githubusercontent.com/85144847/130516627-3663de24-e720-497e-a327-15378c3e3fe9.png)
+![image](https://user-images.githubusercontent.com/85144847/130516717-e5857a6c-4159-4890-8c9d-7e1bc4dbc259.png)
+![image](https://user-images.githubusercontent.com/85144847/130516756-1450f590-9a76-463a-9baa-3071a2888082.png)
 
 
 
