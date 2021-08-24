@@ -20,7 +20,7 @@
 
 2.1. Resumen Capítulo 13
 
-
+![untitled@2x (12)](https://user-images.githubusercontent.com/85144847/130632302-79f08218-4dd1-43ec-9b48-65881c5e6622.png)
 
 2.2. Resumen Capítulo 14
 
@@ -301,11 +301,19 @@ Ld = 4(2)
 
 L4 = Ld = 8 H
 
-27. Dos inductancias de 6 y 4 H están en conectadas en paralelo. Después de que se agrega una tercera inductancia, LT = 4 H. ¿Cuál es el valor de la tercera inductancia y cómo está conectada?
+27.- Dos inductancias de 6 y 4 H están en conectadas en paralelo. Después de que se agrega una tercera inductancia, LT = 4 H. ¿Cuál es el valor de la tercera inductancia y cómo está conectada?
 
-29. Inductancias de 8, 12 y 1.2 H están conectadas en un circuito. Si LT = 6 H, ¿cómo están conectados los inductores?
+![image](https://user-images.githubusercontent.com/85144847/130633317-d072d68e-a58c-40f9-a531-746640f2b97c.png)
 
-31. Por medio de la combinación de elementos, reduzca cada uno de los circuitos de la figura 13-42 a su forma más simple.
+![image](https://user-images.githubusercontent.com/85144847/130633151-5ebc85fa-19a4-4590-b0ff-a342c3ad5e8b.png)
+
+Para los valores correspondientes:
+
+![image](https://user-images.githubusercontent.com/85144847/130633372-c446a9d0-f27c-4c47-bbbb-2e64ff8b3017.png)
+
+29.- Inductancias de 8, 12 y 1.2 H están conectadas en un circuito. Si LT = 6 H, ¿cómo están conectados los inductores?
+
+31.- Por medio de la combinación de elementos, reduzca cada uno de los circuitos de la figura 13-42 a su forma más simple.
 
 ![image](https://user-images.githubusercontent.com/85144847/130535086-9dc2586f-15f3-42d0-86d6-eb651c22332b.png)
 
