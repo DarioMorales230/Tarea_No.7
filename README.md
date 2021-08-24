@@ -798,6 +798,22 @@ Cuando t = 5τ:
 
 ![image](https://user-images.githubusercontent.com/85144847/130544976-39a98a21-3921-4066-b804-1c6421c52752.png)
 
+- Dibujando el circuito de mejor manera:
+
+![image](https://user-images.githubusercontent.com/85144847/130629425-d0fe489c-8150-4022-84f3-005e83416f3d.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/130630223-787be598-c413-4f75-b3c0-977e621081b5.png)
+
+Para iL:
+
+![image](https://user-images.githubusercontent.com/85144847/130630308-9081f3d7-ecd4-4aa0-a0b8-c89686ae8012.png)
+
+Para el valor de t obtenido:
+
+![image](https://user-images.githubusercontent.com/85144847/130630351-f3c6a1d6-fc41-44e5-916a-4cf37f461fed.png)
+
 23. Para la figura 14-46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor.
 
 a. Determine la constante de tiempo del circuito desenergizado.
