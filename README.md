@@ -6,15 +6,15 @@
 
 1.1. Objetivo General.
 
-- 
+- Analizar, diseñar y desarrollar los respectivos circuitos eléctricos con su debido procedimiento respetando los teoremas de cada caso y efectuando de mejor manera su resolución para ello que permita proyectar una formación ya concreta con los temas revisados anteriormente.
 
 1.2. Objetivos Especificos.
 
--
+- Calcular y explicar los transitorios de voltaje y corriente en circuitos RL durante la fase de crecimiento y disminución de la corriente en el circuito indicado.
 
--
+- Calcular la inductancia para configuraciones en serie y en paralelo con sus respectivos voltajes y corrientes del inductor para la excitación de cd en estado estable.
 
--
+- Explicar la ley de Faraday y la ley de Lenz también explicando qué ocurre con los transitorios en los circuitos RL.
 
 2. MARCO TEORICO
 
@@ -798,11 +798,11 @@ https://www.youtube.com/watch?v=MdJbbFCCiKk
 
 5. CONCLUSIONES
 
--
+- Se logro desarrollar de la mejor manera posible todos los ejercicios acerca de los transitorios de voltaje y corriente en circuitos RL durante la fase de crecimiento y disminución de la corriente en el circuito indicado claro esta entendiendo con la teoría explicada.
 
--
+- Se pudo entender y a la vez explicar la ley de Faraday y la ley de Lenz también dándonos a conocer qué ocurre con los transitorios en los circuitos RL.
 
--
+- Finalmente se pudo entender la inductancia para configuraciones en serie y en paralelo con sus respectivos voltajes y corrientes del inductor para la excitación de corriente directa en estado estable.
 
 6. BIBLIOGRAFIA
 
