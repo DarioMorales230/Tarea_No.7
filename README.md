@@ -331,11 +331,31 @@ Para los valores correspondientes:
 
 ![image](https://user-images.githubusercontent.com/85144847/130535160-65f7b9e8-6559-4b4f-89f5-56bf066bef66.png)
 
+- Desarrollo:
+
+RTh = 3.81 Ω
+
+Para voltaje:
+
+![image](https://user-images.githubusercontent.com/85144847/130635589-e87ccbf3-f3c0-4806-ab46-9a401dfa7dde.png)
+
+Para la corriente: 
+
+![image](https://user-images.githubusercontent.com/85144847/130635614-592452af-b851-42b0-87c1-53072fd57a1d.png)
+
+La Energía entregada: 
+
+![image](https://user-images.githubusercontent.com/85144847/130635641-e3867b17-d040-4a46-8341-33faf4f5d147.png)
+
 13-9 Sugerencias para la resolución de problemas con inductores
 
 35. En la figura 13-46, un medidor de inductancia mide 7 H. ¿Cuál es la falla probable?
 
 ![image](https://user-images.githubusercontent.com/85144847/130535200-3e53796d-b869-4cdb-b142-b110925103f4.png)
+
+- Explicacion:
+
+Como logramos apreciar el multimetro logra captar una inductancia equivalente de 7 H esto es debido a que L1 y L2 estan en circuito abierto por eso no logra captar dichas inductancias el multimetro.
 
 3.2. CAPITULO 14
 
