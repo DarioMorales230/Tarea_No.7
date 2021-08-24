@@ -488,7 +488,31 @@ Cuando t = 5τ:
 ![image](https://user-images.githubusercontent.com/85144847/130516717-e5857a6c-4159-4890-8c9d-7e1bc4dbc259.png)
 ![image](https://user-images.githubusercontent.com/85144847/130516756-1450f590-9a76-463a-9baa-3071a2888082.png)
 
+14-5 Circuitos más complejos
 
+21. Para la bobina de la figura 14-45 Rl = 1.7 ohm y L = 150 mH. Determine la corriente de la bobina en t = 18.4 ms.
+
+![image](https://user-images.githubusercontent.com/85144847/130544976-39a98a21-3921-4066-b804-1c6421c52752.png)
+
+23. Para la figura 14-46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor.
+
+a. Determine la constante de tiempo del circuito desenergizado.
+
+b. Determine las ecuaciones para iL y vL.
+
+c. Encuentre el voltaje en el inductor y la corriente a través de él en t  17.8 microseg, use las ecuaciones que se determinaron antes.
+
+![image](https://user-images.githubusercontent.com/85144847/130545120-3aaa62a6-92ab-4010-bbd2-3b757d31019d.png)
+
+25. a. Repita el problema 22, partes (a) y (b) para el circuito de la figura 14-47.
+
+b. ¿Cuánto es iL y vL en t = 25 ms?
+
+![image](https://user-images.githubusercontent.com/85144847/130545214-14b92b35-7d28-4a15-807c-54018108a301.png)
+
+27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor se ha cerrado.
+
+![image](https://user-images.githubusercontent.com/85144847/130545298-89bdd111-343f-4d3f-bab7-4f267699599a.png)
 
 4. VIDEO DE YOUTUBE
 
