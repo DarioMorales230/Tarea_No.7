@@ -816,13 +816,29 @@ Para el valor de t obtenido:
 
 23. Para la figura 14-46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor.
 
+![image](https://user-images.githubusercontent.com/85144847/130545120-3aaa62a6-92ab-4010-bbd2-3b757d31019d.png)
+
 a. Determine la constante de tiempo del circuito desenergizado.
+
+Teniendo en cuenta:
+
+![image](https://user-images.githubusercontent.com/85144847/130631842-64a4ea23-ad94-4fe8-9771-70f39a1818d2.png)
 
 b. Determine las ecuaciones para iL y vL.
 
+Donde:
+
+![image](https://user-images.githubusercontent.com/85144847/130632007-31e13ba3-e204-4c92-b1dd-b5447d2469bf.png)
+
+Para la corriente y voltaje:
+
+![image](https://user-images.githubusercontent.com/85144847/130632049-8f49bcdf-93e0-4eb3-aafb-e24749347b85.png)
+
 c. Encuentre el voltaje en el inductor y la corriente a través de él en t = 17.8 microseg, use las ecuaciones que se determinaron antes.
 
-![image](https://user-images.githubusercontent.com/85144847/130545120-3aaa62a6-92ab-4010-bbd2-3b757d31019d.png)
+Para valores:
+
+![image](https://user-images.githubusercontent.com/85144847/130632094-c3720610-4a0a-43b8-81f2-ee591dbd2da9.png)
 
 25. a. Repita el problema 22, partes (a) y (b) para el circuito de la figura 14-47.
 
