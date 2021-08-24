@@ -778,19 +778,40 @@ a. Determine la constante de tiempo del circuito desenergizado.
 
 b. Determine las ecuaciones para iL y vL.
 
-c. Encuentre el voltaje en el inductor y la corriente a través de él en t  17.8 microseg, use las ecuaciones que se determinaron antes.
+c. Encuentre el voltaje en el inductor y la corriente a través de él en t = 17.8 microseg, use las ecuaciones que se determinaron antes.
 
 ![image](https://user-images.githubusercontent.com/85144847/130545120-3aaa62a6-92ab-4010-bbd2-3b757d31019d.png)
 
 25. a. Repita el problema 22, partes (a) y (b) para el circuito de la figura 14-47.
 
-b. ¿Cuánto es iL y vL en t = 25 ms?
-
 ![image](https://user-images.githubusercontent.com/85144847/130545214-14b92b35-7d28-4a15-807c-54018108a301.png)
+
+¿Cuál es la constante de tiempo del circuito energizado?
+
+Cierre el interruptor y determine la ecuación para iL y vL durante el crecimientode la corriente.
+
+b. ¿Cuánto es iL y vL en t = 25 ms?
 
 27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor se ha cerrado.
 
 ![image](https://user-images.githubusercontent.com/85144847/130545298-89bdd111-343f-4d3f-bab7-4f267699599a.png)
+
+- Datos:
+
+v = 45 voltios
+
+I = 0.15 A
+
+- Desarrollo:
+
+R = \frac{45}{0.15} = 300 Ω
+
+I = \frac{10}{300} = 103.3 mA
+
+V = (103.3mA)(300)
+
+V = 3.69 voltios
+
 
 4. VIDEO DE YOUTUBE
 
