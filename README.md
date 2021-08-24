@@ -313,6 +313,14 @@ Para los valores correspondientes:
 
 29.- Inductancias de 8, 12 y 1.2 H están conectadas en un circuito. Si LT = 6 H, ¿cómo están conectados los inductores?
 
+- Los inductores estan conectados de la siguiente manera:
+
+![image](https://user-images.githubusercontent.com/85144847/130633847-cc5dcf57-809c-4eaa-98ff-85616874c76d.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/130634246-7bb9bcff-2da8-4b2f-befe-0f72e4715869.png)
+
 31.- Por medio de la combinación de elementos, reduzca cada uno de los circuitos de la figura 13-42 a su forma más simple.
 
 ![image](https://user-images.githubusercontent.com/85144847/130535086-9dc2586f-15f3-42d0-86d6-eb651c22332b.png)
