@@ -34,20 +34,48 @@
 
 1. Si el flujo que enlaza una bobina de 75 vueltas (figura 13-29) cambia a la tasa de 3 Wb/s, ¿cuál es el voltaje en la bobina?
 
+![image](https://user-images.githubusercontent.com/85144847/130545810-4b3cf84a-5660-4398-b64a-eb9d87ab6574.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/130546220-ad3aa93e-aac7-485e-b998-4f2d7bff6faf.png)
+
 3. El flujo que cambia a una tasa uniforme por 1 ms induce 60 V en una bobina. ¿Cuál es el voltaje inducido si el mismo cambio de flujo ocurre en 0.01 s?
+
+![image](https://user-images.githubusercontent.com/85144847/130546350-5c0882c0-5ad1-48a6-9a58-7811b14edc1a.png)
 
 13.3 Autoinductancia
 
 5. La corriente en un inductor de 75 mH (figura 13-30) cambia uniformemente por 200 microA en 0.1 ms. ¿Cuál es el voltaje en él?
 
+![image](https://user-images.githubusercontent.com/85144847/130546564-0ed93543-2fca-4c3b-9444-d04272783521.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/130546770-34ab64d6-b81e-4a10-8243-2be681136440.png)
+
 7. El voltaje inducido cuando la corriente cambia de forma uniforme de 3 a 5 amperes en un inductor de 10 H es de 180 volts. ¿Cuánto tiempo pasará para que la corriente cambie de 3 a 5 amperes?
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/130546868-98e11384-90ac-4642-82d5-49ab3c479568.png)
 
 9. Calcule la inductancia de la bobina de núcleo de aire de la figura 13-31, si l = 20 cm, N = 200 vueltas, y d = 2 cm
 
-11. El inductor de núcleo de hierro de la figura 13-32 tiene un núcleo de alta permeabilidad. Por ello, por medio de la ley de Ampere, NI \approx H_a*l_a. Debido a que el espacio de aire predomina, no ocurre la saturación y el flujo del núcleo es proporcional a la corriente, es decir, el enlace de flujo es igual a LI. Adicionalmente, ya que todo el flujo pasa a
-través de la bobina, el enlace de flujo es igual a N	. Al igualar los dos valores del enlace de flujo y con las ideas del capítulo 12, demuestre que la inductancia de la bobina es
+![image](https://user-images.githubusercontent.com/85144847/130546929-0cd81fd5-8b8c-47c6-8403-d52db7012f03.png)
 
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/130547008-14030a06-604c-4470-822c-681e8a41373c.png)
+
+11. El inductor de núcleo de hierro de la figura 13-32 tiene un núcleo de alta permeabilidad. Por ello, por medio de la ley de Ampere, NI \approx H_a*l_a. Debido a que el espacio de aire predomina, no ocurre la saturación y el flujo del núcleo es proporcional a la corriente, es decir, el enlace de flujo es igual a LI. Adicionalmente, ya que todo el flujo pasa a través de la bobina, el enlace de flujo es igual a N	. Al igualar los dos valores del enlace de flujo y con las ideas del capítulo 12, demuestre que la inductancia de la bobina es:
+
+![image](https://user-images.githubusercontent.com/85144847/130547080-35e4e204-06e6-4ed1-b990-9180bbfcf09c.png)
 ![image](https://user-images.githubusercontent.com/85144847/130534644-0ca8186c-39a6-4aec-8df0-3fa4ca394ffb.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/130547390-1a96e564-f967-4127-9068-67e61de3f04a.png)
 
 13-4 Cálculo del voltaje inducido.
 
