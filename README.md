@@ -788,9 +788,25 @@ c. Encuentre el voltaje en el inductor y la corriente a través de él en t = 17
 
 ¿Cuál es la constante de tiempo del circuito energizado?
 
+![image](https://user-images.githubusercontent.com/85144847/130622793-7badd42d-3c2f-40ed-a118-babe5c25013b.png)
+
 Cierre el interruptor y determine la ecuación para iL y vL durante el crecimientode la corriente.
 
+![image](https://user-images.githubusercontent.com/85144847/130624909-f3d83d75-85a0-4dc9-b4ed-556bf574337c.png)
+
+iL = 90(1-e^{-t/10}) mA
+
+VL = 36(e^{-t/10}) v
+
 b. ¿Cuánto es iL y vL en t = 25 ms?
+
+iL = 0.5e^{-t\frac{780}{0.05}}
+
+iL = 90(1-e^t) mA
+
+VL = (0.05)\frac{d}{dt}(90(1-e^t))
+
+VL = 36e^{-t/10} V
 
 27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor se ha cerrado.
 
@@ -811,7 +827,6 @@ I = \frac{10}{300} = 103.3 mA
 V = (103.3mA)(300)
 
 V = 3.69 voltios
-
 
 4. VIDEO DE YOUTUBE
 
