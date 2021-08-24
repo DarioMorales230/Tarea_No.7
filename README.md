@@ -30,6 +30,25 @@
 
 3.1. CAPITULO 13
 
+13-2 Voltaje inducido e inducción
+
+1. Si el flujo que enlaza una bobina de 75 vueltas (figura 13-29) cambia a la tasa de 3 Wb/s, ¿cuál es el voltaje en la bobina?
+
+3. El flujo que cambia a una tasa uniforme por 1 ms induce 60 V en una bobina. ¿Cuál es el voltaje inducido si el mismo cambio de flujo ocurre en 0.01 s?
+
+13.3 Autoinductancia
+
+5. La corriente en un inductor de 75 mH (figura 13-30) cambia uniformemente por 200 microA en 0.1 ms. ¿Cuál es el voltaje en él?
+
+7. El voltaje inducido cuando la corriente cambia de forma uniforme de 3 a 5 amperes en un inductor de 10 H es de 180 volts. ¿Cuánto tiempo pasará para que la corriente cambie de 3 a 5 amperes?
+
+9. Calcule la inductancia de la bobina de núcleo de aire de la figura 13-31, si l = 20 cm, N = 200 vueltas, y d = 2 cm
+
+11. El inductor de núcleo de hierro de la figura 13-32 tiene un núcleo de alta permeabilidad. Por ello, por medio de la ley de Ampere, NI \approx H_a*l_a. Debido a que el espacio de aire predomina, no ocurre la saturación y el flujo del núcleo es proporcional a la corriente, es decir, el enlace de flujo es igual a LI. Adicionalmente, ya que todo el flujo pasa a
+través de la bobina, el enlace de flujo es igual a N	. Al igualar los dos valores del enlace de flujo y con las ideas del capítulo 12, demuestre que la inductancia de la bobina es
+
+![image](https://user-images.githubusercontent.com/85144847/130534644-0ca8186c-39a6-4aec-8df0-3fa4ca394ffb.png)
+
 13-4 Cálculo del voltaje inducido.
 
 13. La figura 13-34 muestra la corriente en una bobina. Si el voltaje de 0 a 2 ms es de 100 volts, ¿qué valor tiene L?
@@ -145,7 +164,9 @@ Desarrollo:
 - Circuito a:
 
 LT = L1+L2+L3
+
 LT = 10+5+6
+
 LT = 21H
 
 - Circuito b:
@@ -161,13 +182,17 @@ LT = 21H
 ![image](https://user-images.githubusercontent.com/85144847/130493841-5c291fa4-6d32-49d7-95fc-e1f665d9f419.png)
 
 LT = Leqv+L3
+
 LT = 6+14
+
 LT = 20H
 
 - Circuito d:
 
 Leqv1 = L_3+L_4
+
 Leqv1 = 2+4
+
 Leqv1 = 6H
 
 - Redibujando el circuito:
@@ -218,9 +243,67 @@ Leqv1 = 90μH
 ![image](https://user-images.githubusercontent.com/85144847/130495093-50f5b6cf-1f3f-4a40-be96-0cd60311f06f.png)
 ![image](https://user-images.githubusercontent.com/85144847/130495113-a314adb2-a30a-4489-ac7c-40a7d90618da.png)
 
+25. Para los circuitos de la figura 13-40, determine L3 y L4.
+
+![image](https://user-images.githubusercontent.com/85144847/130534954-ab79e03c-7e08-4e38-8233-f4b28b843631.png)
+
+27. Dos inductancias de 6 y 4 H están en conectadas en paralelo. Después de que se agrega una tercera inductancia, LT = 4 H. ¿Cuál es el valor de la tercera inductancia y cómo está conectada?
+
+29. Inductancias de 8, 12 y 1.2 H están conectadas en un circuito. Si LT = 6 H, ¿cómo están conectados los inductores?
+
+31. Por medio de la combinación de elementos, reduzca cada uno de los circuitos de la figura 13-42 a su forma más simple.
+
+![image](https://user-images.githubusercontent.com/85144847/130535086-9dc2586f-15f3-42d0-86d6-eb651c22332b.png)
+
+13-8 Energía almacenada por una inductancia
+
+33. Encuentre la energía almacenada en el inductor de la figura 13-44.
+
+![image](https://user-images.githubusercontent.com/85144847/130535160-65f7b9e8-6559-4b4f-89f5-56bf066bef66.png)
+
+13-9 Sugerencias para la resolución de problemas con inductores
+
+35. En la figura 13-46, un medidor de inductancia mide 7 H. ¿Cuál es la falla probable?
+
+![image](https://user-images.githubusercontent.com/85144847/130535200-3e53796d-b869-4cdb-b142-b110925103f4.png)
+
 3.2. CAPITULO 14
 
-14-2 Transitorio de corriente creciente.
+14-1 Introducción
+
+1. a. ¿A qué se parece un inductor que no conduce corriente en el instante que se acciona el interruptor?
+
+b. Para cada circuito de la figura 14-37, determine iS y vL inmediatamente después de que el interruptor se cierra.
+
+![image](https://user-images.githubusercontent.com/85144847/130535686-ab961ab0-1ece-4dac-b6f4-9885ee981143.png)
+
+3. Repita el problema 2 si L1 se reemplaza con un capacitor descargado.
+
+![image](https://user-images.githubusercontent.com/85144847/130535747-bc77633f-0ffc-427f-804a-5dfbd9fc8518.png)
+
+14-2 Transitorio de corriente creciente
+
+5. El interruptor de la figura 14-39 está cerrado en t = 0 s.
+
+a. ¿Cuál es la constante de tiempo del circuito?
+
+b. ¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable?
+
+c. Determine las ecuaciones para iL y vL.
+
+d. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t = 0 hasta 5 t.
+
+e. Grafique iL y vL. Marque los ejes en t y en segundos.
+
+![image](https://user-images.githubusercontent.com/85144847/130535889-b8e38659-ea52-4145-821c-d933fee83788.png)
+
+7. Repita el problema 5 para el circuito de la figura 14-41 con L = 4 H.
+
+![image](https://user-images.githubusercontent.com/85144847/130535921-e3bce285-1db7-4a67-b58f-880a847fa5e8.png)
+
+9. Cierre el interruptor en t = 0 s y determine las ecuaciones para iL y vL para el circuito de la figura 14-42. Calcule iL y vL en t = 3.4 ms.
+
+![image](https://user-images.githubusercontent.com/85144847/130535970-1f9c5236-9a73-45b2-b996-36275dadb0bc.png)
 
 11. Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es 4 A, y el transitorio dura 0.5 s. Determine E, R y L.
 
