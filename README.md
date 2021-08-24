@@ -301,37 +301,287 @@ Leqv1 = 90μH
 
 1. a. ¿A qué se parece un inductor que no conduce corriente en el instante que se acciona el interruptor?
 
+El inductor que no lleva corriente en el momento en que acciona el interruptor parece un circuito abierto.
+
 b. Para cada circuito de la figura 14-37, determine iS y vL inmediatamente después de que el interruptor se cierra.
 
 ![image](https://user-images.githubusercontent.com/85144847/130535686-ab961ab0-1ece-4dac-b6f4-9885ee981143.png)
+
+- Dibujando el circuito:
+
+![image](https://user-images.githubusercontent.com/85144847/130547794-161a193a-f886-4dda-809a-3d72c5747269.png)
+![image](https://user-images.githubusercontent.com/85144847/130547888-0a71278c-6fb8-4ee9-a190-f9c8c223540b.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/130547962-b1d3ece5-e22a-49c9-a770-1bdf53ada3b3.png)
+
+![image](https://user-images.githubusercontent.com/85144847/130547977-c0285db0-f2b2-4f66-97da-398096c4ac1e.png)
+
+![image](https://user-images.githubusercontent.com/85144847/130548080-94190c5b-9b04-4b5b-a61c-43a68a00e4c0.png)
+
+![image](https://user-images.githubusercontent.com/85144847/130548162-e5528160-46d0-4c20-94c2-b5cf63472d57.png)
+
+![image](https://user-images.githubusercontent.com/85144847/130548170-633836ae-6c7c-42f0-a895-5c02c498c02e.png)
+
+- Desarrollo:
+
+is = 0 A
+
+vL = E
+
+![image](https://user-images.githubusercontent.com/85144847/130548250-c070dbbc-0e98-46ed-8507-aee96925480a.png)
+
+![image](https://user-images.githubusercontent.com/85144847/130548258-921b1381-2dbc-495e-8249-657530b0faa3.png)
+
+![image](https://user-images.githubusercontent.com/85144847/130548322-b7b63d46-235b-4633-a440-412395a5ea3e.png)
+
+vL = is*R2
+
+vL = (2A)(15Ω)
+
+vL = 30V
 
 3. Repita el problema 2 si L1 se reemplaza con un capacitor descargado.
 
 ![image](https://user-images.githubusercontent.com/85144847/130535747-bc77633f-0ffc-427f-804a-5dfbd9fc8518.png)
 
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/130549591-1de0d9ea-857d-4162-9f25-5f63b7623e39.png)
+
+![image](https://user-images.githubusercontent.com/85144847/130549600-afe2cf9a-a50e-4036-85e4-c345d40492b9.png)
+
+i6 = 0A
+
+vR6 = i6R_{6}
+
+v_{R6} = (0A)(18Ω)
+
+v_{R6} = 0V
+
+v_{C1} = 0V
+
+R_{eq1} = R_4 + R_5
+
+R_{eq1} = 16 Ω + 14 Ω
+
+R_{eq1} = 30 Ω
+
+![image](https://user-images.githubusercontent.com/85144847/130550093-a973c840-e1e2-4119-a717-547d42876d03.png)
+![image](https://user-images.githubusercontent.com/85144847/130550153-66fecf9f-7b1f-4bba-a5ce-9e0f50575279.png)
+
+![image](https://user-images.githubusercontent.com/85144847/130550173-68f054e5-3130-467d-b0e8-30dc9cbf9c79.png)
+
+R_{eq3} = R_{2}+R_{eq2}
+
+R_{eq3} = 40 Ω + 20 Ω
+
+R_{eq3} = 60 Ω
+
+![image](https://user-images.githubusercontent.com/85144847/130550301-39145703-fb82-43bb-9a5d-aecc469c3e73.png)
+![image](https://user-images.githubusercontent.com/85144847/130550439-f6ed14ae-5ace-461b-83e2-c0f9e2990ee2.png)
+
+![image](https://user-images.githubusercontent.com/85144847/130550497-7e567c0a-3c04-4277-924c-f51b038b8e0b.png)
+![image](https://user-images.githubusercontent.com/85144847/130550540-caf3fa69-7579-4ea6-8526-70316db423bb.png)
+
+v_{R1} = E
+
+v_{R1} = 180 V
+
+![image](https://user-images.githubusercontent.com/85144847/130550716-71bd4bda-87ba-4e54-a391-f7c2b90a2781.png)
+![image](https://user-images.githubusercontent.com/85144847/130550745-0ecf8619-85a7-417a-8dea-15e7d5c9d4d4.png)
+
+v_{R2} = i_2R_{2}
+
+v_{R2} = (3A)(40Ω)
+
+v_{R2} = 120\ V
+
+v_{R3} = i_3R_{3}
+
+v_{R3} = (3A)(20Ω)
+
+v_{R3} = 60 V
+
+- Donde:
+
+![image](https://user-images.githubusercontent.com/85144847/130551465-246340d5-4990-43be-bb73-9ec56dfb4da6.png)
+![image](https://user-images.githubusercontent.com/85144847/130551493-f39f115c-9147-493e-a50b-10c523d44cc3.png)
+
+v_{R4} = i_4R_{4}
+
+v_{R4}=(2 A)(16 Ω)
+
+v_{R4}=32 V
+
+v_{R5} = i_5R_{5}
+
+v_{R5} = (2A)(14Ω)
+
+v_{R5} = 28 V
+
 14-2 Transitorio de corriente creciente
 
 5. El interruptor de la figura 14-39 está cerrado en t = 0 s.
 
+![image](https://user-images.githubusercontent.com/85144847/130551825-46d2e0b6-a704-496f-8327-91289ea9959d.png)
+
 a. ¿Cuál es la constante de tiempo del circuito?
+
+![image](https://user-images.githubusercontent.com/85144847/130551915-b5722096-261e-468c-ba49-57e61d44e2f8.png)
 
 b. ¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable?
 
+![image](https://user-images.githubusercontent.com/85144847/130551981-fed88d12-892c-47a4-87e2-8d026c71c8b8.png)
+
 c. Determine las ecuaciones para iL y vL.
+
+![image](https://user-images.githubusercontent.com/85144847/130552480-2bbfc28b-b09d-46f5-8bcb-604eef28a880.png)
+![image](https://user-images.githubusercontent.com/85144847/130552511-2f6cef65-e112-4484-ad75-22f4815ebe32.png)
 
 d. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t = 0 hasta 5 t.
 
+![image](https://user-images.githubusercontent.com/85144847/130552612-51a2bc0d-d469-4c19-9168-f1794007e49f.png)
+![image](https://user-images.githubusercontent.com/85144847/130552780-819cb5e4-c840-4b54-ba40-d38763bf9b8e.png)
+
+- Para t = 50 ms:
+
+![image](https://user-images.githubusercontent.com/85144847/130552854-8bd03c94-04de-4f07-917a-ca8a9ae464e3.png)
+![image](https://user-images.githubusercontent.com/85144847/130552872-3d86f1fb-ca2c-472d-a953-d13e17c29718.png)
+
+t = 2(50 ms)
+
+t = 0.1 s
+
+![image](https://user-images.githubusercontent.com/85144847/130552946-1b201bff-d20e-4104-b38d-4a0bc95a2681.png)
+![image](https://user-images.githubusercontent.com/85144847/130552961-c2dbc1d2-00c2-4cd6-bf3f-84e8b567bd2a.png)
+
+t = 3(50 ms)
+
+t = 0.15 s
+
+![image](https://user-images.githubusercontent.com/85144847/130553161-68f629ee-bdec-4a6e-ae9c-ee9bd679c32c.png)
+![image](https://user-images.githubusercontent.com/85144847/130553174-3186c421-bd9c-42a1-b5ae-59e03f07fcab.png)
+
+t = 4(50 ms)
+
+t = 0.2 s
+
+![image](https://user-images.githubusercontent.com/85144847/130553235-f42d58c1-5303-41a1-bceb-1285f8c156e8.png)
+![image](https://user-images.githubusercontent.com/85144847/130553250-f2691160-ad84-442a-aa63-c9236f2d2427.png)
+
+t = 2(50 ms)
+
+t = 0.25 s
+
+![image](https://user-images.githubusercontent.com/85144847/130553525-8a2eac9a-c799-4575-9e71-8d242e66fceb.png)
+![image](https://user-images.githubusercontent.com/85144847/130553543-c98f912e-9a26-48ff-b4a9-5f91e8c9a990.png)
+
 e. Grafique iL y vL. Marque los ejes en t y en segundos.
 
-![image](https://user-images.githubusercontent.com/85144847/130535889-b8e38659-ea52-4145-821c-d933fee83788.png)
+![image](https://user-images.githubusercontent.com/85144847/130553733-0b162d88-d0ee-4113-b522-af401b3a91ec.png)
+
+![image](https://user-images.githubusercontent.com/85144847/130553800-1453a063-ed50-47f2-8c73-d03431a67c29.png)
+
+![image](https://user-images.githubusercontent.com/85144847/130553831-c8e165c3-c56d-45a3-b60c-98e385846e59.png)
 
 7. Repita el problema 5 para el circuito de la figura 14-41 con L = 4 H.
 
-![image](https://user-images.githubusercontent.com/85144847/130535921-e3bce285-1db7-4a67-b58f-880a847fa5e8.png)
+![image](https://user-images.githubusercontent.com/85144847/130553886-917508ee-8349-4f4b-a7a9-24e7c582ffe1.png)
+
+a. ¿Cuál es la constante de tiempo del circuito? 
+
+![image](https://user-images.githubusercontent.com/85144847/130554005-3641e16f-f692-447c-bbff-5e2157d46727.png)
+
+b. ¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable? 
+
+t = 5 
+
+t = 5*0.2 
+
+t = 1 s
+
+c. Determine las ecuaciones para iL y vL. 
+
+![image](https://user-images.githubusercontent.com/85144847/130554106-cd9f2a68-4cf2-419d-aa35-02007fac29bb.png)
+![image](https://user-images.githubusercontent.com/85144847/130554158-fb405340-8450-442e-a94a-0a42047ec0d3.png)
+
+d. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t = 0 hasta 5 t. 
+
+![image](https://user-images.githubusercontent.com/85144847/130555179-6ffc0a70-3067-404b-adad-cefd61e9f3bd.png)
+![image](https://user-images.githubusercontent.com/85144847/130555201-6672c392-f738-4f98-8e93-fe45a8e32800.png)
+
+t = 0.2 s
+
+![image](https://user-images.githubusercontent.com/85144847/130555226-4c8b4ef8-6e06-4f23-9ea8-a6b38cf23f21.png)
+![image](https://user-images.githubusercontent.com/85144847/130555255-11db58a5-d8e4-4ff2-808b-04ededc2b516.png)
+
+t = 0.2 s
+
+t = 2(0.2 s)
+
+t = 0.4 s
+
+![image](https://user-images.githubusercontent.com/85144847/130555286-571d637e-9d35-48aa-987e-ec6ba5081a4f.png)
+![image](https://user-images.githubusercontent.com/85144847/130555297-9278710a-3f25-41b3-964c-e5779755dc04.png)
+
+t = 0.2 s
+
+t = 3(0.2 s)
+
+t = 0.6 s
+
+![image](https://user-images.githubusercontent.com/85144847/130555352-7d3d4bfe-7390-40aa-920e-c8642cd57227.png)
+![image](https://user-images.githubusercontent.com/85144847/130555374-95e4cd65-0244-4b29-b0ce-9b1d22dbecfd.png)
+
+t = 0.2 s
+
+t = 4(0.2 s)
+
+t = 0.8 s
+
+![image](https://user-images.githubusercontent.com/85144847/130555424-8abf0ffa-bf41-4a9f-b9a6-7e1843de7c52.png)
+![image](https://user-images.githubusercontent.com/85144847/130555438-d68f5ffd-cfb8-4e80-ab9e-6805bdafc50e.png)
+
+t = 0.2 s
+
+t = 5(0.2 s)
+
+t = 1 s
+
+![image](https://user-images.githubusercontent.com/85144847/130555504-91d58395-5b29-4f87-ad26-f54751b3684a.png)
+![image](https://user-images.githubusercontent.com/85144847/130555523-fbce3a6a-d082-436d-84fe-3c8fc48e8226.png)
+
+e. Grafique iL y vL. Marque los ejes en t y en segundos.
+
+- Tabla de valores.
+
+![image](https://user-images.githubusercontent.com/85144847/130555618-f2f43714-b1b2-4f11-a343-3df3f1facd8f.png)
+
+- Grafica:
+
+![image](https://user-images.githubusercontent.com/85144847/130556720-a2ff5177-fdc9-4854-bf2c-303b16530d7b.png)
+
+![image](https://user-images.githubusercontent.com/85144847/130556732-584008e0-be1f-4683-ac84-8d54a064db1e.png)
 
 9. Cierre el interruptor en t = 0 s y determine las ecuaciones para iL y vL para el circuito de la figura 14-42. Calcule iL y vL en t = 3.4 ms.
 
-![image](https://user-images.githubusercontent.com/85144847/130535970-1f9c5236-9a73-45b2-b996-36275dadb0bc.png)
+![image](https://user-images.githubusercontent.com/85144847/130556751-4f014707-d5ad-4409-b128-a0b5d146519b.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/130556877-2b326ebd-02ed-48cd-a8a0-183d9027971c.png)
+
+![image](https://user-images.githubusercontent.com/85144847/130556989-c27f8593-00f7-4f0a-8ff7-c90757225d54.png)
+
+![image](https://user-images.githubusercontent.com/85144847/130557033-a3d53f81-af7e-4f13-bb54-c9101243c158.png)
+
+vL = -40e^{-392.86(3.4 ms)}
+
+vL = -40e^{-1.336}
+
+vL = -10.5V
 
 11. Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es 4 A, y el transitorio dura 0.5 s. Determine E, R y L.
 
