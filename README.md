@@ -275,6 +275,32 @@ Leqv1 = 90μH
 
 ![image](https://user-images.githubusercontent.com/85144847/130534954-ab79e03c-7e08-4e38-8233-f4b28b843631.png)
 
+- Desarrollo:
+
+Teniendo en cuenta:
+
+![image](https://user-images.githubusercontent.com/85144847/130628304-c99813f1-bc8c-4ad0-97ce-e8146022c9a1.png)
+
+Para valores:
+
+![image](https://user-images.githubusercontent.com/85144847/130628367-fd6da79a-4568-4f4e-9418-22d1dff791d8.png)
+
+Usando método computacional:
+
+![image](https://user-images.githubusercontent.com/85144847/130628414-937656af-453d-45ca-a3ec-a0d2666d9ded.png)
+
+Para el circuito b:
+
+![image](https://user-images.githubusercontent.com/85144847/130628468-8d27facf-9339-4004-a455-f5c9f74c3140.png)
+
+Usando métodos computacionales:
+
+L3 = Lc = 2 H
+
+Ld = 4(2) 
+
+L4 = Ld = 8 H
+
 27. Dos inductancias de 6 y 4 H están en conectadas en paralelo. Después de que se agrega una tercera inductancia, LT = 4 H. ¿Cuál es el valor de la tercera inductancia y cómo está conectada?
 
 29. Inductancias de 8, 12 y 1.2 H están conectadas en un circuito. Si LT = 6 H, ¿cómo están conectados los inductores?
