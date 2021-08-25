@@ -325,6 +325,58 @@ Para los valores correspondientes:
 
 ![image](https://user-images.githubusercontent.com/85144847/130535086-9dc2586f-15f3-42d0-86d6-eb651c22332b.png)
 
+- Circuito a:
+
+Sacamos la capacitancia equivalente para dejar expresado solo un capacitador con un inductor:
+
+![image](https://user-images.githubusercontent.com/85144847/130807006-b05227f1-50c0-4bd2-be2f-eeb6d7da8bb4.png)
+![image](https://user-images.githubusercontent.com/85144847/130807395-35f5e42e-4834-4265-9889-2397ff734ec4.png)
+
+![image](https://user-images.githubusercontent.com/85144847/130807433-890442c1-0a49-449b-aa9c-46f2b87dc766.png)
+
+- Circuito b:
+
+Sacamos la capacitancia e inductancia equivalente
+![image](https://user-images.githubusercontent.com/85144847/130808249-6ff75d50-e911-47be-8a1d-8078b3e52a93.png)
+
+CTh = 2+8 
+
+CTh = 10 uF
+
+![image](https://user-images.githubusercontent.com/85144847/130808614-f65def2d-4dd7-45a1-9ed0-1ec8ef201fa7.png)
+
+![image](https://user-images.githubusercontent.com/85144847/130808765-01227366-5c5f-4850-a1c4-5d50aab74f27.png)
+
+- Circuito c:
+
+![image](https://user-images.githubusercontent.com/85144847/130809196-585fa10a-b4a6-4603-81f5-b16401dad3e8.png)
+
+CTh = 10+10+5
+
+CTh = 25 uF
+
+ITh = 6+4
+
+ITh = 10 H
+
+![image](https://user-images.githubusercontent.com/85144847/130809501-01eac060-25ba-4338-9ef1-b39bca7d362d.png)
+
+- Circuito d:
+
+![image](https://user-images.githubusercontent.com/85144847/130809827-d2a8b1c5-c337-4fa8-8664-08383fa7f20d.png)
+
+RTh = 10+40
+
+RTh = 50 Ω
+
+ITh = 40+10
+
+ITh = 50 H
+
+![image](https://user-images.githubusercontent.com/85144847/130810639-d0ba3a9e-aa84-41f6-a648-d5fc40588de9.png)
+
+![image](https://user-images.githubusercontent.com/85144847/130810843-a9fa46d6-abcf-4644-8012-26a069e3d698.png)
+
 13-8 Energía almacenada por una inductancia
 
 33. Encuentre la energía almacenada en el inductor de la figura 13-44.
