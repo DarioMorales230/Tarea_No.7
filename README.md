@@ -337,6 +337,7 @@ Sacamos la capacitancia equivalente para dejar expresado solo un capacitador con
 - Circuito b:
 
 Sacamos la capacitancia e inductancia equivalente
+
 ![image](https://user-images.githubusercontent.com/85144847/130808249-6ff75d50-e911-47be-8a1d-8078b3e52a93.png)
 
 CTh = 2+8 
